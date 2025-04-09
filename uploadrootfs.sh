@@ -3,8 +3,8 @@
 # Configuration parameters
 SOURCE_FILE="rootfs1.ext4"     # Source file to compress
 VOLUME_SIZE="1024m"            # Set volume size variable
-TAG_NAME="v2025.03.01"         # Release tag name
-RELEASES_NAME="v2025.03.01"
+TAG_NAME="v2025.03.04"         # Release tag name
+RELEASES_NAME="v2025.03.04"
 REPO_NAME="CHonghaohao/hvisor_env_img"      # GitHub repository name (format: owner/repo)
 ZIP_PARTS=("rootfs1.zip.001" "rootfs1.zip.002" "rootfs1.zip.003") # Split archive files array
 IMAGE_FILE="Image"      # Release tag name  # linux Image file name
